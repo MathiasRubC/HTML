@@ -1,0 +1,22 @@
+body {
+    background-color: #5988FF; /* El color del fondo de la página web */
+    }
+
+h4, h5, h6{
+    color: #FD98FD; /* El color de la cabecera */
+    font-size: 36px; 
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+
+li{
+    color: #FFFFFF; /* El color de la cabecera */
+    font-size: 36px;  
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+
+p{
+    color: #D6FF6B; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+
+}
